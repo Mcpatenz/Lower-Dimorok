@@ -1,0 +1,10 @@
+{
+  "name": "Lower Dimorok",
+  "description": "Official Citizen Services Mobile Portal & Executive Governance Dashboard for Barangay Lower Dimorok, Municipality of Molave, Zamboanga del Sur.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
